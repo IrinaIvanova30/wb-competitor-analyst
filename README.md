@@ -13,6 +13,7 @@
 Установите библиотеки: pip install fastapi uvicorn pandas openai pydantic nest_asyncio
 Поместите файл с данными data.csv в корневую папку проекта.
 Запустите сервер: откройте файл проекта (work1.py) в Jupyter Notebook.
+Вставить GEMINI_API_KEY в соответствующее поле ( написала в файле)
 
 Тестирование:
 Перейдите по адресу http://127.0.0.1:8009/docs, чтобы открыть интерактивную документацию Swagger.
